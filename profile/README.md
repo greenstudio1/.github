@@ -40,8 +40,8 @@
 
 | Project | Description | Status |
 | :--- | :--- | :---: |
-| *Project-1* | Core service or utility overview. | `🟢 Active` |
-| *Project-2* | Experimental feature or WIP tool. | `🟡 In Progress` |
+| *GreenShort*   | Url Shortening service that works with Workers AI, Analytics Engine and D1 SQLite Database. | `🟢 Active` |
+| *D1GreenFiles* | Still working on it. The repo is still private till we make a stable release.               | `🟡 In Progress` |
 
 ---
 
