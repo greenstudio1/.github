@@ -19,28 +19,11 @@
 
 ---
 
-### 🚀 Focus Areas
-
-* **Web Applications & Tools:** Lightweight, responsive utilities designed for performance and ease of use.
-* **APIs & Serverless Services:** Fast, distributed endpoints powered by edge runtimes.
-* **Automation & Scripts:** Custom workflows, CLI tools, and productivity scripts.
-
----
-
-### 🛠️ Tech Stack & Utilities
-
-* **Languages & Web:** TypeScript, JavaScript, Python, HTML5, CSS3, SVG
-* **Frameworks & Styles:** Node.js, Tailwind CSS
-* **Hosting & Edge:** Cloudflare Workers, Cloudflare Pages
-* **VCS & Workflow:** Git, GitHub Actions
-
----
-
 ### 📂 Featured Projects
 
 | Project | Description | Status |
 | :--- | :--- | :---: |
-| *GreenShort*   | Url Shortening service that works with Workers AI, Analytics Engine and D1 SQLite Database. | `🟢 Active` |
+| *GreenShort*   | Url Shortening service that works with Workers AI, Analytics Engine and D1 SQLite Database. Only supports deploy to Cloudflare Pages. | `🟢 Active` |
 | *D1GreenFiles* | Still working on it. The repo is still private till we make a stable release.               | `🟡 In Progress` |
 
 ---
